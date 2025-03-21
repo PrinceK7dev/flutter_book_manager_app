@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748688513240",
+    "project_id": "book-manager-1c6ae",
+    "storage_bucket": "book-manager-1c6ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748688513240:android:6642c639106e22a3eadfad",
+        "android_client_info": {
+          "package_name": "com.example.book_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUOypgQcn9M4s3FueAF4dQorV0u75AB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
