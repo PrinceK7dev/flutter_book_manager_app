@@ -1,16 +1,25 @@
-# book_manager
+# Book Manager
 
-A new Flutter project.
+A Flutter app to manage your book collection, with user accounts powered by Firebase.
+
+## Features
+
+- Email sign-up and login with Firebase Authentication
+- Add, edit, and delete books in your personal list
+- Auth state handled reactively — signed-in users go straight to their library
+
+## Tech Stack
+
+- **Flutter & Dart**
+- **Firebase Core + Firebase Auth** for backend and authentication
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
+2. Add your `google-services.json` (Android) / `GoogleService-Info.plist` (iOS) from your Firebase project
+3. Run `flutter pub get`
+4. Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_Screenshots coming soon._
